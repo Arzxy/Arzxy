@@ -17,7 +17,7 @@
 
 ###
 
-<p style="margin-left: 20px;">- 📌 Hi, I’m Muhammad Akmal Rizki<br><br>- ⚡ In my free time I Playing Game, Coding, and Praying.</p>
+<p style="margin-left: 20px;">- 📌 Hi, I’m Muhammad Akmal Rizki<br>- ⚡ In my free time I Playing Game, Coding, and Praying.</p>
 
 ###
 <br>
