@@ -21,7 +21,7 @@
 - 💡 Interested in Laravel, JavaScript, and modern UI/UX
 - 🎮 Hobbyist gamer, part-time dreamer, and always ready to learn
 - ☕ I enjoy coding with a cup of coffee and lo-fi music
-- 📫 Reach me at: [kmalrizki0102@gmail.com](mailto:kmalrizki0102@gmail.com)
+- 📫 Reach me at: [akmalrizki0102@gmail.com](mailto:akmalrizki0102@gmail.com)
 
 ---
 
