@@ -13,6 +13,9 @@
 
 <p align="center">A passionate Web Developer & Designer based in Indonesia 🇮🇩</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arzxy&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
