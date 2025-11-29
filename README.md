@@ -49,12 +49,6 @@
 
 ## 📈 GitHub Stats
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arzxy/arzxy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arzxy/arzxy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arzxy/arzxy/output/github-snake.svg" />
-</picture>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arzxy&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=Arzxy&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" />
